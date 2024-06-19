@@ -6,7 +6,7 @@
 
 #### Autores
 
-Luigi orlando garcia Duarte
+Luigi Orlando Garcia Duarte
 
 ### Objetivo:
 
