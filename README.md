@@ -2,7 +2,7 @@
 
 ## Clasificaion de violencia intrafamiliar por genero
 
-<img src="./Images/banner.png" alt="Clasificaicon de violencia por genero"/>
+<img src="./Images/Banner.png" alt="Clasificaicon de violencia por genero"/>
 
 #### Autores
 
