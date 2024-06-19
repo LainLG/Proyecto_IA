@@ -12,7 +12,7 @@ Luigi orlando garcia Duarte
 
 predecir por medio de factores como:
  
-* Municipio
+* Departamento
 * Tipo de arma
 * Grupo etario
 * Cantidad
@@ -38,7 +38,7 @@ El genero de la victima.
 
 * con 3 capas (hidden layer 1)
 * con 5 capas (hidden layers 3)
-* con 8 capas (hiden layers 6)
+* con 8 capas (hidden layers 6)
 
 ## Codigo 
 
