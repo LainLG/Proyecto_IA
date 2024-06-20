@@ -43,5 +43,5 @@ El genero de la victima.
 ## Codigo 
 
 [Codigo](https://github.com/LainLG/Proyecto_IA/blob/main/Proyecto.ipynb)
-[Video]()
+[Video](https://www.youtube.com/watch?v=CU5GZrmXYU4)
 [Repositorio](https://github.com/LainLG/Proyecto_IA/)
