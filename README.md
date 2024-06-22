@@ -34,7 +34,7 @@ El genero de la victima.
 * RandomForestClassifier
 * SVC
 
-## Red Neuronal DNN
+## Deep Learning DNN
 
 * con 3 capas (hidden layer 1)
 * con 5 capas (hidden layers 3)
@@ -43,5 +43,5 @@ El genero de la victima.
 ## Codigo 
 
 [Codigo](https://github.com/LainLG/Proyecto_IA/blob/main/Proyecto.ipynb)
-[Video](https://www.youtube.com/watch?v=CU5GZrmXYU4)
+[Video](https://youtu.be/wReej7DeD9w)
 [Repositorio](https://github.com/LainLG/Proyecto_IA/)
